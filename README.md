@@ -1,6 +1,4 @@
-# 📘 Object-Oriented Programming Labs (C++) (Faculty of Engineering and Technology
-**Uzhhorod National University (UzhNU)**
-**Major:** Computer Engineering (123))
+# 📘 Object-Oriented Programming Labs (C++) (Faculty of Engineering and Technology Uzhhorod National University (UzhNU) Major: Computer Engineering (123))
 
 This repository contains a collection of **C++ laboratory works** demonstrating **object-oriented programming (OOP)** concepts such as classes, inheritance, dynamic memory management, operator overloading, and file handling.
 All programs were developed for educational purposes as part of the **Computer Engineering (B.Eng)** curriculum.
